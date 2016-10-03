@@ -1,0 +1,21 @@
+{
+  "name": "wenevership.it",
+  "homepage": "https://wenevership.it",
+  "authors": [
+    "Martin Wessely <martin@wesse.ly>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {},
+  "dependencies": {}
+}
